@@ -1,0 +1,11 @@
+#各种爬虫联系
+import requests as rs
+from lxml import etree as er
+import xlwt
+import random
+import time
+import csv
+import pymysql
+from openpyxl import Workbook
+
+start_time = time.time()
